@@ -3,7 +3,7 @@ package edu.uspg.DAO;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public class PersonaDAOImpl {
+public class AlumnoDAOImpl {
 	
 	public void crear() {
 		System.out.println("Probando");
